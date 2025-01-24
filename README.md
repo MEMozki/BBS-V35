@@ -2,7 +2,7 @@
 
 Server Brawl Stars for v35.108 in Python from F3Mozk1_d3v (Me)
 
-![Screenshot](screenshot.png) 
+![Screenshot](https://i.imgur.com/EhSpjPz.png) 
 
 ### Requirements:
 - Python 3.8 or higher
